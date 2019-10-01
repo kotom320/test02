@@ -14,4 +14,5 @@ public class JoinController {
 	public String franchisee() {
 		return "member/franchisee";
 	}
+	//¾È³ç¾È³ç?
 }
